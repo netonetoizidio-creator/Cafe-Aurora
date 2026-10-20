@@ -1,0 +1,14 @@
+<svg width="720" height="540" viewBox="0 0 720 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="540" rx="38" fill="#F6E8D2"/>
+  <rect x="120" y="160" width="460" height="230" rx="24" fill="#FDF7F1"/>
+  <circle cx="240" cy="205" r="52" fill="#EFC77C" opacity="0.35"/>
+  <path d="M202 247C202 211.549 230.549 183 266 183H307C342.451 183 371 211.549 371 247V264C371 299.451 342.451 328 307 328H266C230.549 328 202 299.451 202 264V247Z" fill="#38251D"/>
+  <path d="M195 245C195 216.281 218.281 193 247 193H326C354.719 193 378 216.281 378 245V249C378 277.719 354.719 301 326 301H247C218.281 301 195 277.719 195 249V245Z" fill="#F7EEDC"/>
+  <path d="M140 245H176" stroke="#D6A354" stroke-width="8" stroke-linecap="round"/>
+  <path d="M382 245H422" stroke="#D6A354" stroke-width="8" stroke-linecap="round"/>
+  <path d="M495 220C517 193 551 178 586 193C621 208 637 248 622 285C606 322 569 338 531 330C492 322 473 276 495 220Z" fill="#D79A4B" opacity="0.9"/>
+  <path d="M507 246C535 226 570 226 594 247C617 267 622 298 606 324C589 351 552 371 514 366C468 360 436 319 446 279C454 254 473 237 507 246Z" fill="#F8E4B6"/>
+  <path d="M518 261C532 237 560 227 585 236C610 244 627 267 630 292C633 318 621 344 597 358C573 371 539 373 512 360C484 347 467 321 472 292C475 280 485 271 518 261Z" fill="#E1B273"/>
+  <text x="120" y="115" fill="#38251D" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">Seu fim de semana</text>
+  <text x="120" y="152" fill="#38251D" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">merece esse sabor</text>
+</svg>

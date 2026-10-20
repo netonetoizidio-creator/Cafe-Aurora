@@ -1,0 +1,24 @@
+<svg width="420" height="120" viewBox="0 0 420 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">Café Aurora</title>
+  <desc id="logoDesc">Logomarca horizontal com xícara de café e sol nascente em tons de marrom, creme e dourado.</desc>
+  <rect width="420" height="120" rx="24" fill="#F7F0E6"/>
+  <g transform="translate(18 14)">
+    <circle cx="42" cy="42" r="38" fill="#F3C777" opacity="0.28"/>
+    <path d="M21 50C21 31.2223 36.2223 16 55 16H63C81.7777 16 97 31.2223 97 50V56C97 74.7777 81.7777 90 63 90H55C36.2223 90 21 74.7777 21 56V50Z" fill="#38251D"/>
+    <path d="M16 48C16 35.8497 25.8497 26 38 26H79C91.1503 26 101 35.8497 101 48V49C101 61.1503 91.1503 71 79 71H38C25.8497 71 16 61.1503 16 49V48Z" fill="#F8EAD4"/>
+    <path d="M100 44H110C117.732 44 124 50.268 124 58C124 65.732 117.732 72 110 72H100V44Z" fill="#D6A354"/>
+    <path d="M102 44H110C117.732 44 124 50.268 124 58C124 65.732 117.732 72 110 72H102V44Z" fill="#D6A354" fill-opacity="0.6"/>
+    <path d="M32 28C39 20.5 49 16 60 16C71 16 81 20.5 88 28" stroke="#D6A354" stroke-width="5" stroke-linecap="round"/>
+    <path d="M34 16L40 8" stroke="#D6A354" stroke-width="4" stroke-linecap="round"/>
+    <path d="M63 12L63 4" stroke="#D6A354" stroke-width="4" stroke-linecap="round"/>
+    <path d="M92 16L86 8" stroke="#D6A354" stroke-width="4" stroke-linecap="round"/>
+    <path d="M48 72C50.5 76.5 55 79 61 79C66 79 70.5 77 73.5 73.5" stroke="#38251D" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="60" cy="42" r="18" fill="#F4D7A4" opacity="0.62"/>
+    <path d="M60 18C66 24 71 31 72 39C73 47 69 54 63 58C57 62 49 62 42 58C36 54 31 47 32 39C34 31 39 24 45 18" fill="#F7E6BE" opacity="0.8"/>
+  </g>
+  <g transform="translate(150 18)">
+    <path d="M18 20L34 58L47 20H58L72 58L88 20" stroke="#38251D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M28 54H78" stroke="#38251D" stroke-width="4" stroke-linecap="round"/>
+    <text x="0" y="72" fill="#38251D" font-family="Georgia, 'Times New Roman', serif" font-size="45" font-weight="700" letter-spacing="0.5">Café Aurora</text>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="720" height="540" viewBox="0 0 720 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="540" rx="38" fill="#F5E9D7"/>
+  <circle cx="588" cy="120" r="94" fill="#F3C777" opacity="0.2"/>
+  <path d="M180 290C180 235.7 223.7 192 278 192H342C396.3 192 440 235.7 440 290V308C440 362.3 396.3 406 342 406H278C223.7 406 180 362.3 180 308V290Z" fill="#38251D"/>
+  <path d="M160 290C160 246.863 194.863 212 238 212H378C421.137 212 456 246.863 456 290V297C456 340.137 421.137 375 378 375H238C194.863 375 160 340.137 160 297V290Z" fill="#FFF4E8"/>
+  <path d="M448 273H472C494.091 273 512 290.909 512 313C512 335.091 494.091 353 472 353H448V273Z" fill="#D6A354"/>
+  <path d="M232 226C255 202 287 190 321 190C355 190 387 202 410 226" stroke="#D6A354" stroke-width="9" stroke-linecap="round"/>
+  <path d="M286 250C301 269 319 277 338 277C357 277 375 269 390 250" fill="#F6D39D" opacity="0.8"/>
+  <path d="M280 242C292 260 307 270 324 270C341 270 356 260 368 242" fill="#F7E8C8"/>
+  <path d="M322 150L328 120" stroke="#D6A354" stroke-width="8" stroke-linecap="round"/>
+  <path d="M376 156L393 126" stroke="#D6A354" stroke-width="8" stroke-linecap="round"/>
+  <path d="M268 156L250 126" stroke="#D6A354" stroke-width="8" stroke-linecap="round"/>
+  <path d="M140 111L160 88L182 116" stroke="#D6A354" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="92" y="100" fill="#38251D" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700">Seu dia começa</text>
+  <text x="102" y="145" fill="#38251D" font-family="Georgia, 'Times New Roman', serif" font-size="36" font-weight="700">com um bom café</text>
+</svg>

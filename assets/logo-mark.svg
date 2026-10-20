@@ -1,0 +1,15 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="markTitle markDesc">
+  <title id="markTitle">Marca do Café Aurora</title>
+  <desc id="markDesc">Símbolo compacto com xícara e raios de sol no estilo da cafeteria Café Aurora.</desc>
+  <rect width="180" height="180" rx="40" fill="#F6EAD8"/>
+  <circle cx="90" cy="90" r="58" fill="#E7BA66" opacity="0.22"/>
+  <path d="M59 94C59 73.0132 76.0132 56 97 56H104C124.987 56 142 73.0132 142 94V100C142 120.987 124.987 138 104 138H97C76.0132 138 59 120.987 59 100V94Z" fill="#38251D"/>
+  <path d="M53 91C53 77.745 64.745 67 78 67H120C133.255 67 145 77.745 145 91V92C145 105.255 133.255 117 120 117H78C64.745 117 53 105.255 53 92V91Z" fill="#FFF7EE"/>
+  <path d="M144 88H156C164.837 88 172 95.1634 172 104C172 112.837 164.837 120 156 120H144V88Z" fill="#D6A354"/>
+  <path d="M90 48C97 56 102 65 104 74C106 83 102 91 95 97C89 103 80 104 72 100C65 96 60 89 59 82C58 74 62 64 69 56" fill="#F7E6BE" opacity="0.85"/>
+  <path d="M93 24L99 10" stroke="#D6A354" stroke-width="6" stroke-linecap="round"/>
+  <path d="M127 34L138 20" stroke="#D6A354" stroke-width="6" stroke-linecap="round"/>
+  <path d="M58 34L46 20" stroke="#D6A354" stroke-width="6" stroke-linecap="round"/>
+  <path d="M90 20V8" stroke="#D6A354" stroke-width="6" stroke-linecap="round"/>
+  <path d="M72 119C76 125 82 129 90 129C98 129 104 125 108 119" stroke="#38251D" stroke-width="6" stroke-linecap="round"/>
+</svg>
