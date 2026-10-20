@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Conheça o Café Aurora, uma cafeteria fictícia feita para inspirar bons momentos.">
+  <title>Café Aurora | Seu momento especial</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="header">
+    <a class="logo" href="#inicio">☕ Café Aurora</a>
+    <button class="menu-toggle" id="menu-toggle" aria-label="Abrir menu"
+      aria-expanded="false" aria-controls="menu">☰</button>
+    <nav class="nav" id="menu">
+      <a href="#inicio">Início</a>
+      <a href="#sobre">Sobre</a>
+      <a href="#cardapio">Cardápio</a>
+      <a href="#horarios">Horários</a>
+      <a href="#contato">Contato</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" id="inicio">
+      <div class="hero-content">
+        <span class="eyebrow">CAFÉ, ACOLHIMENTO E BONS MOMENTOS</span>
+        <h1>Seu dia merece um <span>café especial.</span></h1>
+        <p>Um cantinho acolhedor para desacelerar, apreciar bons sabores e transformar pequenos momentos em grandes lembranças.</p>
+        <a class="button" href="#cardapio">Conheça nosso cardápio</a>
+      </div>
+      <div class="hero-decoration" aria-hidden="true">
+        <span>☕</span>
+        <p>Feito com carinho,<br>servido com afeto.</p>
+      </div>
+    </section>
+
+    <section class="section about" id="sobre">
+      <div class="section-heading">
+        <span class="eyebrow">NOSSA ESSÊNCIA</span>
+        <h2>Mais que café, uma pausa feliz.</h2>
+      </div>
+      <p class="about-text">O Café Aurora é uma cafeteria fictícia criada para celebrar o prazer de uma boa xícara. Imaginamos um ambiente tranquilo, aromas envolventes e receitas especiais para acompanhar suas conversas, leituras e momentos de descanso.</p>
+    </section>
+
+    <section class="section products" id="cardapio">
+      <div class="section-heading">
+        <span class="eyebrow">FEITOS PARA VOCÊ</span>
+        <h2>Nossos favoritos</h2>
+        <p>Três delícias imaginárias para deixar seu dia mais gostoso.</p>
+      </div>
+      <div class="product-grid">
+        <article class="product-card">
+          <div class="product-icon" aria-hidden="true">☕</div>
+          <span class="product-tag">CLÁSSICO</span>
+          <h3>Expresso Aurora</h3>
+          <p>Café intenso, aroma marcante e uma dose de energia.</p>
+          <span class="price">R$ 8,00</span>
+        </article>
+        <article class="product-card">
+          <div class="product-icon" aria-hidden="true">🍰</div>
+          <span class="product-tag">DOCE PAUSA</span>
+          <h3>Cheesecake Solar</h3>
+          <p>Uma sobremesa cremosa com toque delicado de baunilha.</p>
+          <span class="price">R$ 16,00</span>
+        </article>
+        <article class="product-card">
+          <div class="product-icon" aria-hidden="true">🥐</div>
+          <span class="product-tag">RECÉM-ASSADO</span>
+          <h3>Folhado Dourado</h3>
+          <p>Massa leve e crocante para acompanhar seu café.</p>
+          <span class="price">R$ 10,00</span>
+        </article>
+      </div>
+      <p class="disclaimer">Produtos, preços e cafeteria são fictícios e ilustrativos.</p>
+    </section>
+
+    <section class="section hours" id="horarios">
+      <div class="section-heading">
+        <span class="eyebrow">PLANEJE SUA VISITA</span>
+        <h2>Nosso horário</h2>
+      </div>
+      <div class="hours-card">
+        <p><span>Segunda a sexta</span><strong>08h às 18h</strong></p>
+        <p><span>Sábado</span><strong>08h às 14h</strong></p>
+        <p><span>Domingo</span><strong>Fechado</strong></p>
+        <p class="hours-note">Horários fictícios para fins de demonstração.</p>
+      </div>
+    </section>
+
+    <section class="section contact" id="contato">
+      <div class="section-heading">
+        <span class="eyebrow">VAMOS CONVERSAR?</span>
+        <h2>Entre em contato</h2>
+        <p>Será um prazer imaginar esse encontro com você.</p>
+      </div>
+      <div class="contact-card">
+        <p><span aria-hidden="true">✉</span> contato@cafeaurora.example</p>
+        <p><span aria-hidden="true">☎</span> (00) 00000-0000</p>
+        <p><span aria-hidden="true">⌖</span> Endereço fictício — Café Aurora</p>
+        <p class="contact-note">Os dados acima são exemplos e não representam contatos reais.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <a class="logo footer-logo" href="#inicio">☕ Café Aurora</a>
+    <p>Um café imaginário, muitos bons momentos.</p>
+    <p>© <span id="year"></span> Café Aurora. Projeto demonstrativo.</p>
+  </footer>
+</body>
+</html>
